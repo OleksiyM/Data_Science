@@ -1,6 +1,6 @@
 # Data Science Python 18 Course homeworks
 
-## ## Module 5. Other machine learning algorithms with a teacher
+## Module 5. Other machine learning algorithms with a teacher
 
 * [Hw5.ipynb](Module_05%2FHw5.ipynb)
 
