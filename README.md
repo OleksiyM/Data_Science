@@ -1,6 +1,6 @@
 # Data Science Python 18 Course homeworks
 
-## Module 6.
+## Module 6. Machine Learning without a teacher (Unsupervised Learning)
 
 ## Module 5. Other machine learning algorithms with a teacher
 
