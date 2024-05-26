@@ -2,6 +2,8 @@
 
 ## Module 6. Machine Learning without a teacher (Unsupervised Learning)
 
+* [Hw6.ipynb](Module_06%2FHw6.ipynb)
+
 ## Module 5. Other machine learning algorithms with a teacher
 
 * [Hw5.ipynb](Module_05%2FHw5.ipynb)
