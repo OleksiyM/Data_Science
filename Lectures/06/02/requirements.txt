@@ -1,0 +1,11 @@
+numpy==1.25.2
+scipy==1.11.4
+pandas==2.0.3
+matplotlib==3.7.1
+seaborn==0.13.1
+scikit-learn==1.2.2
+scikit-surprise==1.1.4
+tensorflow==2.15.0
+keras==2.15.0
+nltk==3.8.1
+spacy==3.7.4
