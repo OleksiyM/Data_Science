@@ -1,5 +1,7 @@
 # Data Science Python 18 Course homeworks
 
+## Module 7. Recommendation systems
+
 ## Module 6. Machine Learning without a teacher (Unsupervised Learning)
 
 * [Hw6.ipynb](Module_06%2FHw6.ipynb)
