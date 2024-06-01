@@ -2,6 +2,8 @@
 
 ## Module 7. Recommendation systems
 
+* [HW7.ipynb](Module_07%2FHW7.ipynb)
+
 ## Module 6. Machine Learning without a teacher (Unsupervised Learning)
 
 * [Hw6.ipynb](Module_06%2FHw6.ipynb)
