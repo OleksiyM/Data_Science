@@ -1,6 +1,8 @@
 # Data Science Python 18 Course homeworks
 
-## Module 8.
+## Module 8. Deep learning. Tensorflow
+
+* [HW8.ipynb](Module_08%2FHW8.ipynb)
 
 ## Module 7. Recommendation systems
 
