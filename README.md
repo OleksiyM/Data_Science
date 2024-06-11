@@ -1,6 +1,6 @@
 # Data Science Python 18 Course homeworks
 
-## Module 9.
+## Module 9. Adjusting the hyperparameters of the neural network
 
 ## Module 8. Deep learning. Tensorflow
 
