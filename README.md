@@ -2,6 +2,8 @@
 
 ## Module 9. Adjusting the hyperparameters of the neural network
 
+* [Hw9.ipynb](Module_09%2FHw9.ipynb)
+
 ## Module 8. Deep learning. Tensorflow
 
 * [HW8.ipynb](Module_08%2FHW8.ipynb)
