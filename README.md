@@ -1,6 +1,8 @@
 # Data Science Python 18 Course homeworks
 
-## Module 10. Convolutional neural networks
+## Module 10. Convolutional neural networks (CNNs)
+
+* [Hw10.ipynb](Module_10%2FHw10.ipynb)
 
 ## Module 9. Adjusting the hyperparameters of the neural network
 
