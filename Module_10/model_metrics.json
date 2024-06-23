@@ -1,0 +1,32 @@
+[
+    {
+        "Created_at": "2024-06-22T20:55:00.355773",
+        "Loss": 0.3100658655166626,
+        "Accuracy": 0.8910999894142151,
+        "Comment": "mulilayer regular neural net"
+    },
+    {
+        "Created_at": "2024-06-22T20:59:29.786552",
+        "Loss": 0.25632619857788086,
+        "Accuracy": 0.9093000292778015,
+        "Comment": "Conv2D_v1 neural net"
+    },
+    {
+        "Created_at": "2024-06-22T21:24:28.971305",
+        "Loss": 0.26006075739860535,
+        "Accuracy": 0.9279000163078308,
+        "Comment": "Conv2D_v2 improved Conv2D_v1 model"
+    },
+    {
+        "Created_at": "2024-06-23T01:38:38.073755",
+        "Loss": 0.35051268339157104,
+        "Accuracy": 0.8763999938964844,
+        "Comment": "VGG16_v2 neural net"
+    },
+    {
+        "Created_at": "2024-06-23T02:22:31.542947",
+        "Loss": 0.35021787881851196,
+        "Accuracy": 0.8761000037193298,
+        "Comment": "VGG16_v2 fine-tuned"
+    }
+]
