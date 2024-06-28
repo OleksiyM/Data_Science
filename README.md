@@ -1,5 +1,9 @@
 # Data Science Python 18 Course homeworks
 
+## Module 11. Recurrent neural networks (RNN)
+
+* [Hw11.ipynb](Module_11%2FHw11.ipynb)
+
 ## Module 10. Convolutional neural networks (CNNs)
 
 * [Hw10.ipynb](Module_10%2FHw10.ipynb)
