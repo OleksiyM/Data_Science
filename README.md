@@ -1,6 +1,6 @@
 # Data Science Python 18 Course homeworks
 
-## Module 12.
+## Module 12. NLP fundamentals
 
 ## Module 11. Recurrent neural networks (RNN)
 
