@@ -2,6 +2,8 @@
 
 ## Module 12. NLP fundamentals
 
+* [Hw12.ipynb](Module_12%2FHw12.ipynb)
+
 ## Module 11. Recurrent neural networks (RNN)
 
 * [Hw11.ipynb](Module_11%2FHw11.ipynb)
