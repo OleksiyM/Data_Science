@@ -1,4 +1,4 @@
-# Data Science Python 18 Course homeworks
+# Data Science Python 18 Course lectures and homeworks
 
 ---
 
@@ -52,5 +52,11 @@
 * [Hw2.3.ipynb](https://github.com/OleksiyM/Data_Science/blob/main/Module_02/Hw2.3.ipynb)
 
 ## Module 1. Introduction to Data Science
+
+### Lectures
+
+* [Lecrure_1_2](Lectures%2F01%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_1_2.ipynb)
+
+### Homework
 
 * [Hw1.ipynb](Module_01%2FHw1.ipynb)
