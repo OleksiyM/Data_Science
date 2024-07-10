@@ -45,6 +45,14 @@
 
 ## Module 2. Exploratory data analysis
 
+### Lectures
+
+* [Lecture_3](Lectures%2F02%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_2_1.ipynb)
+
+* [Lecture_4](Lectures%2F02%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_2_2.ipynb)
+
+### Homework
+
 * [Hw2.1.ipynb](https://github.com/OleksiyM/Data_Science/blob/main/Module_02/Hw2.1.ipynb)
 
 * [Hw2.2.ipynb](https://github.com/OleksiyM/Data_Science/blob/main/Module_02/Hw2.2.ipynb)
@@ -55,7 +63,7 @@
 
 ### Lectures
 
-* [Lecrure_1_2](Lectures%2F01%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_1_2.ipynb)
+* [Lectures_1_2](Lectures%2F01%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_1_2.ipynb)
 
 ### Homework
 
