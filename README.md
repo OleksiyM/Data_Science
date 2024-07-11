@@ -41,6 +41,13 @@
 
 ## Module 3. Classic machine learning
 
+### Lectures
+
+* [Lecture_5](Lectures%2F03%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_5.ipynb)
+* [Lecture_6](Lectures%2F03%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_6.ipynb)
+
+### Homework
+
 * [Hw3.ipynb](Module_03%2FHw3.ipynb)
 
 ## Module 2. Exploratory data analysis
