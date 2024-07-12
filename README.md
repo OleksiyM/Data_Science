@@ -37,6 +37,14 @@
 
 ## Module 4. Classification and evaluation of the model
 
+### Lectures
+
+* [Lecture_7](Lectures%2F04%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_7%202.ipynb)
+* [Lecture_8](Lectures%2F04%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_8.ipynb)
+* [Lecture_8_practice](Lectures%2F04%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_8_%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.ipynb)
+
+### Homework
+
 * [Hw4.ipynb](Module_04%2FHw4.ipynb)
 
 ## Module 3. Classic machine learning
