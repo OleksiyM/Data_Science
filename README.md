@@ -33,6 +33,13 @@
 
 ## Module 5. Other machine learning algorithms with a teacher
 
+### Lectures
+
+* [Lecture_9](Lectures%2F05%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_9.ipynb)
+* [Lecture_10](Lectures%2F05%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_10.ipynb)
+
+### Homework
+
 * [Hw5.ipynb](Module_05%2FHw5.ipynb)
 
 ## Module 4. Classification and evaluation of the model
