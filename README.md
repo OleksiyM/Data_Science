@@ -29,6 +29,13 @@
 
 ## Module 6. Machine Learning without a teacher (Unsupervised Learning)
 
+### Lectures
+
+* [Lecture_11](Lectures%2F06%2F01%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_11.ipynb)
+* [Lecture_12](Lectures%2F06%2F02%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_12.ipynb)
+
+### Homework
+
 * [Hw6.ipynb](Module_06%2FHw6.ipynb)
 
 ## Module 5. Other machine learning algorithms with a teacher
