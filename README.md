@@ -24,6 +24,13 @@
 
 ## Module 7. Recommendation systems
 
+### Lectures
+
+* [Lecture_13](Lectures%2F07%2F01%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_13%202.ipynb)
+* [Lecture_14](Lectures%2F07%2F02%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_14.ipynb)
+
+### Homework
+
 * [HW7.ipynb](Module_07%2FHW7.ipynb)
 * [surprise_recommender.ipynb](Module_07%2Fsurprise_recommender.ipynb)
 
