@@ -20,6 +20,13 @@
 
 ## Module 8. Deep learning. Tensorflow
 
+### Lectures
+
+* [Lecture_15](Lectures%2F08%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_15.ipynb)
+* [Lecture_16](Lectures%2F08%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_16.ipynb)
+
+### Homework
+
 * [HW8.ipynb](Module_08%2FHW8.ipynb)
 
 ## Module 7. Recommendation systems
