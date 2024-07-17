@@ -16,6 +16,14 @@
 
 ## Module 9. Adjusting the hyperparameters of the neural network
 
+### Lectures
+
+* [Lecture_17](Lectures%2F09%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_17.ipynb)
+* [Lecture_18](Lectures%2F09%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_18.ipynb)
+* [Lecture_18_practice_IMDB](Lectures%2F09%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F18_%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_IMDB.ipynb)
+
+### Homework
+
 * [Hw9.ipynb](Module_09%2FHw9.ipynb)
 
 ## Module 8. Deep learning. Tensorflow
