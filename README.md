@@ -13,7 +13,7 @@
 ## Module 10. Convolutional neural networks (CNNs)
 
 * [Hw10.ipynb](Module_10%2FHw10.ipynb)
-* [Hw10_last_best.ipynb](Module_10%2FHw10_last_best.ipynb)
+* [Hw10_last_test.ipynb](Module_10%2FHw10_last_best.ipynb)
 
 ## Module 9. Adjusting the hyperparameters of the neural network
 
