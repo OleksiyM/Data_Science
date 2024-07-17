@@ -13,6 +13,7 @@
 ## Module 10. Convolutional neural networks (CNNs)
 
 * [Hw10.ipynb](Module_10%2FHw10.ipynb)
+* [Hw10_last_best.ipynb](Module_10%2FHw10_last_best.ipynb)
 
 ## Module 9. Adjusting the hyperparameters of the neural network
 
@@ -25,6 +26,7 @@
 ### Homework
 
 * [Hw9.ipynb](Module_09%2FHw9.ipynb)
+* [Hw9_last_best.ipynb](Module_09%2FHw9_last_best.ipynb)
 
 ## Module 8. Deep learning. Tensorflow
 
