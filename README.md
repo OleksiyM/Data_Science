@@ -8,6 +8,14 @@
 
 ## Module 11. Recurrent neural networks (RNN)
 
+### Lectures
+
+* [Lecture_21](Lectures%2F11%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_21.ipynb)
+* [Lecture_22](Lectures%2F11%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_22.ipynb)
+*
+
+### Homework
+
 * [Hw11.ipynb](Module_11%2FHw11.ipynb)
 
 ## Module 10. Convolutional neural networks (CNNs)
