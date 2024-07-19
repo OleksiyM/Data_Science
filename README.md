@@ -12,6 +12,14 @@
 
 ## Module 10. Convolutional neural networks (CNNs)
 
+### Lectures
+
+* [Lecture_19](Lectures%2F10%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_19.ipynb)
+* [Lecture_20](Lectures%2F10%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_20.ipynb)
+* [Lecture_20 updated](Lectures%2F10%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_20%20%281%29.ipynb)
+
+### Homework
+
 * [Hw10.ipynb](Module_10%2FHw10.ipynb)
 * [Hw10_last_test.ipynb](Module_10%2FHw10_last_best.ipynb)
 
