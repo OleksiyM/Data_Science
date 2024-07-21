@@ -4,6 +4,12 @@
 
 ## Module 12. NLP fundamentals
 
+### Lectures
+
+* [Lecture_23](Lectures%2F12%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_23.ipynb)
+
+### Homework
+
 * [Hw12.ipynb](Module_12%2FHw12.ipynb)
 
 ## Module 11. Recurrent neural networks (RNN)
@@ -12,7 +18,6 @@
 
 * [Lecture_21](Lectures%2F11%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_21.ipynb)
 * [Lecture_22](Lectures%2F11%2F%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F_22.ipynb)
-*
 
 ### Homework
 
