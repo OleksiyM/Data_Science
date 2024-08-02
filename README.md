@@ -1,7 +1,5 @@
 # Data Science Python 18 Course lectures and homeworks
 
----
-
 ## Module 12. NLP fundamentals
 
 ### Lectures
